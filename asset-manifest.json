@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacit-calculator/static/css/main.9a081441.chunk.css",
+    "main.js": "/reacit-calculator/static/js/main.0f5e9b1c.chunk.js",
+    "main.js.map": "/reacit-calculator/static/js/main.0f5e9b1c.chunk.js.map",
+    "runtime-main.js": "/reacit-calculator/static/js/runtime-main.a34b0f7c.js",
+    "runtime-main.js.map": "/reacit-calculator/static/js/runtime-main.a34b0f7c.js.map",
+    "static/js/2.5e72f31d.chunk.js": "/reacit-calculator/static/js/2.5e72f31d.chunk.js",
+    "static/js/2.5e72f31d.chunk.js.map": "/reacit-calculator/static/js/2.5e72f31d.chunk.js.map",
+    "index.html": "/reacit-calculator/index.html",
+    "precache-manifest.ef43143434cf325cae03f41b4e191a09.js": "/reacit-calculator/precache-manifest.ef43143434cf325cae03f41b4e191a09.js",
+    "service-worker.js": "/reacit-calculator/service-worker.js",
+    "static/css/main.9a081441.chunk.css.map": "/reacit-calculator/static/css/main.9a081441.chunk.css.map",
+    "static/js/2.5e72f31d.chunk.js.LICENSE.txt": "/reacit-calculator/static/js/2.5e72f31d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/reacit-calculator/static/media/calc2.b11b3b21.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a34b0f7c.js",
+    "static/js/2.5e72f31d.chunk.js",
+    "static/css/main.9a081441.chunk.css",
+    "static/js/main.0f5e9b1c.chunk.js"
+  ]
+}
